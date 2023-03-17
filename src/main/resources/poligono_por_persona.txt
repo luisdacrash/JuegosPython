@@ -1,0 +1,31 @@
+Antonio Arcediano   ->  Triángulo
+
+Luis Castillo       ->  Cuadrado
+
+Alejandro           ->  Rectángulo
+
+Juan Miguel         ->  Pentágono
+
+Juan Alberto        ->  Hexágono
+
+Álvaro López        ->  Heptágono
+
+Álvaro Mármol       ->  Octógono
+
+David Martínez      ->  Eneágono
+
+Javier Martínez     ->  Decágono
+
+Silvia Mesa         ->  Endecágono
+
+Eduardo Moreno      ->  Dodecágono
+
+Miguel Ríos         ->  Tridecágono
+
+Pablo Elías         ->  Tetradecágono
+
+Pablo Serrano       ->  Pentadecágono
+
+Juan Sutil          ->  Hexadecágono
+
+Adrían Verdejo      ->  Heptadecágono
